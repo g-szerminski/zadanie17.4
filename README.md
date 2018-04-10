@@ -1,3 +1,3 @@
 17 - ExpressJS-ekspresowe tworzenie aplikacji w NodeJS<br>
-17.3 - Route, czyli ścieżka wyznaczona dla użytkownika aplikacji<br>
-Zadanie: Operacje CRUD na pliku JSON
+17.4 - Serwowanie plików statycznych<br>
+Zadanie: Żonglujemy danymi pomiędzy endpointami
