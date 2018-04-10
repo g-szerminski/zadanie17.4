@@ -1,0 +1,25 @@
+{
+  "name": "zadanie17.4",
+  "version": "1.0.0",
+  "description": "17 - ExpressJS-ekspresowe tworzenie aplikacji w NodeJS<br>\r 17.4 - Serwowanie plików statycznych<br>\r Zadanie: Żonglujemy danymi pomiędzy endpointami",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-szerminski/zadanie17.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-szerminski/zadanie17.4/issues"
+  },
+  "homepage": "https://github.com/g-szerminski/zadanie17.4#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
